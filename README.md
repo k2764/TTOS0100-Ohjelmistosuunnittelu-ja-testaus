@@ -4,4 +4,9 @@ TTOS0100-Ohjelmistosuunnittelu-ja-testaus
 
 
 ##zxfsdfdsf
-[google](www.google.fi)
+[google](https://www.google.fi)
+
+| Diiabadaaaa | diibadaaba | 
+|:------------|-----------:|
+| joopajoo | 123123 |
+| hohhoijaa | asdasd |
